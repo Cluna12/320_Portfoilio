@@ -1,1 +1,5 @@
-# 320_Portfoilio
+How can I ensure that my code, program, or software is functional and secure?
+How do I interpret user needs and incorporate them into a program?
+How do I approach designing software?
+-----------------------------------------------------------------------------
+  To ensure your code, program, or software is both functional and secure, you should write clear, maintainable code, apply thorough testing (including unit, integration, and security tests), and follow secure coding practices to prevent common vulnerabilities. Interpreting user needs involves active communication, gathering requirements, and translating them into clear technical specifications, while continuously validating your work against user expectations through feedback and iteration. When designing software, you should start with problem analysis, outline system requirements, create logical designs (such as flowcharts or UML diagrams), and plan the architecture in a way that balances functionality, performance, and security, while leaving room for scalability and future improvements.
